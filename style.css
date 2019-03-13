@@ -1,0 +1,102 @@
+.bg{
+	background: #252d41;
+	/*background: -moz-linear-gradient(top, #232323 0%,#0b1b3d 44%,#252d41 99%); 
+background: linear-gradient(to bottom, #232323 0%,#0b1b3d 44%,#252d41 99%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#232323', endColorstr='#252d41',GradientType=0 );
+background-size: 2000%;
+background-attachment: scroll;*/
+}
+.in{
+	text-decoration:none; color:white; font-size:20pt;
+	
+}
+
+.head1{
+	position: fixed;
+	width: 400%;
+	background-color: #232323 ; 
+	padding: 50px 0;
+	left: -1px;
+}
+.logo{ 
+	padding-top: 15%;
+	width: 300%;
+	padding: 40px 0;
+	margin: -10px;
+}
+.lo{
+	position: fixed;
+	left: 10px;
+}
+.text-lo{
+	letter-spacing: 15px;
+	left: 440px;
+	top: 150px;
+	color: white;
+	position: fixed;
+	font-size: 18px;
+	font-style: italic;
+}
+
+.text-log{
+	letter-spacing: 3px;
+	top: 520px;
+	left: 485px;
+	color: white;
+	position: fixed;
+	font-size: 15px;
+	font-style: italic;
+}
+.div-img{
+	text-align: center;
+	width: 100%;
+	left: 50px;
+	top: 100px;
+}
+.sort{
+	position: fixed;
+	font-family: 'Cordia New';
+	text-indent: 85px;
+	float: right;
+	font-size: 16pt;
+	font-weight: bold;
+	display: table-row;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+	left: 38px;
+	top: 40px;
+	color: white;
+}
+.white{
+	color: white;
+}
+a{
+	text-decoration: none;
+	color: white;
+	padding: 12px;
+}
+body{
+	font-weight: 400;
+}
+
+.po{
+	position: absolute;
+	border: 4px;
+	left:  120px;
+  }
+h{
+	margin-left:  120px;
+	padding-left: 970px;
+
+
+  }
+  .dropdown-menu {
+	  background-color: #252d41;
+	  color:#bac0cc;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+	  color: #252d41;
+	  background-color: #bac0cc;
+  }

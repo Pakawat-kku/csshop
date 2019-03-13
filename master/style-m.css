@@ -1,0 +1,39 @@
+
+
+ body{
+    background: #252d41;
+}
+.head1{
+position:absolute;
+color: hsl(0, 0%, 100%) ; 
+}
+.wh{
+    color:white;
+}
+/* .head2{
+    margin: 60px;
+}*/
+.head3{
+    padding: 0px;
+    color: #FFFFFF ;
+
+}
+       .p{
+        position: absolute;
+        height: 50px;
+        margin-left: 250px;
+        top:100px;
+
+    }
+     .p2{
+        position: absolute;
+        height: 50px;
+        margin-left: 260px;
+        top:200px;
+
+    }
+    /*.p3{
+        position: absolute;
+        margin-left: 150;
+    }
+*/
